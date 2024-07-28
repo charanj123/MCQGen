@@ -1,0 +1,4 @@
+[2024-07-27 16:30:28,599] 1026 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2024-07-27 16:30:28,664] 1073 openai._base_client - INFO - Retrying request to /chat/completions in 0.813642 seconds
+[2024-07-27 16:30:29,583] 1073 openai._base_client - INFO - Retrying request to /chat/completions in 1.943234 seconds
+[2024-07-27 16:30:32,845] 1026 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
